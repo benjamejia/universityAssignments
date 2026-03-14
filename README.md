@@ -11,9 +11,6 @@ Academic assignments and projects developed during my Computer Science studies.
 ## Technologies
 
 - Java
-- Python
-- C++
 
----
 
 *Work in progress - Adding projects as I complete them*
